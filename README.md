@@ -1,16 +1,22 @@
-## Hi there 👋
+Welcome to WrestleGears
 
-<!--
-**wrestlegearscom-wq/wrestlegearscom-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+WrestleGears is an online destination for wrestling fans and championship belt collectors. We share helpful resources, buying guides, collecting tips, and information about wrestling championship belts.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Explore Our Resources
+
+- [WWE Replica Belts Collection](https://wrestlegears.com/collections/wwe-belts)
+- [WWE Replica Belts Buying Guide](https://wrestlegearscom-wq.github.io/wwe-replica-belts-guide/)
+- [How to Choose a Replica Belt](https://wrestlegearscom-wq.github.io/wwe-replica-belts-guide/choosing-a-replica-belt.html)
+- [Classic vs. Modern Championship Belts](https://wrestlegearscom-wq.github.io/wwe-replica-belts-guide/classic-vs-modern-belts.html)
+- [Belt Materials and Care](https://wrestlegearscom-wq.github.io/wwe-replica-belts-guide/belt-materials-and-care.html)
+- [Building a Belt Collection](https://wrestlegearscom-wq.github.io/wwe-replica-belts-guide/building-a-belt-collection.html)
+- [Belt Buying Checklist](https://wrestlegearscom-wq.github.io/wwe-replica-belts-guide/belt-buying-checklist.html)
+
+## Visit Our Website
+
+[WrestleGears Official Website](https://wrestlegears.com)
+
+About This Project
+
+This GitHub profile shares educational resources for wrestling fans, collectors, and people interested in championship belt designs, materials, and collecting.
